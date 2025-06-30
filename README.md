@@ -1,1 +1,1 @@
-# analysis_in_a_box
+# Analysis in a box
